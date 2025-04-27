@@ -1,0 +1,5 @@
+1. Used Tabula in order to extract .csv files from provided timetable pdfs.
+2. Used a spreadsheet in order to rapidly remove excess data.
+3. Wrote a Python script to automate further data cleaning.
+4. Wrote a Python script to count the total number of stops at each station, making sure to account for formatting differences such as the "intl" issue mentioned in the project description.
+5. Wrote a Python script to track the stations at which each train stops.
